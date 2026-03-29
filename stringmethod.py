@@ -31,3 +31,4 @@ text = "  hello world from python  "
 # 10. Endswith
 print("Ends with 'python':", text.strip().endswith("python"))
 
+# Day 2 - String Methods

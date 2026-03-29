@@ -51,4 +51,4 @@ elif marks >= 60:
 elif marks >= 50:
     print("Grade: D")
 else:
-    print("Grade: F (Fail)")
+    print("Grade: F (Fail)")# Day 2 - If Statements

@@ -21,3 +21,4 @@
 #     print(fruit.upper())
 
 
+# Day 2 - For Loop

@@ -26,4 +26,4 @@ print("Percentage:", f"{score:.1%}")
 item = "Laptop"
 price = 999.99
 
-print(f"Item: {item:<10} Price: {price:>8.2f}")
+print(f"Item: {item:<10} Price: {price:>8.2f}")# Day 2 - Format Specifiers

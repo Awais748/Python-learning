@@ -36,4 +36,4 @@ marks = 75
 
 grade = "A" if marks >= 80 else "B" if marks >= 60 else "C"
 
-print("Example 4 (Grade):", grade)
+print("Example 4 (Grade):", grade)# Day 2 - Ternary Operator

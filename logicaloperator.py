@@ -69,4 +69,4 @@ is_raining = True
 if not is_raining:
     print("Example 2: Go outside and enjoy.")
 else:
-    print("Example 2: Stay inside.")
+    print("Example 2: Stay inside.")# Day 2 - Logical Operators
