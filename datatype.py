@@ -88,4 +88,4 @@ student = {
 }
 
 print("Dictionary Example:", student)
-print(type(student))
+print(type(student))# Day 1 - Data Types

@@ -27,4 +27,4 @@ print("c:", c)
 
 
 city = "Lahore"
-print(type(city))  
+print(type(city))  # Day 1 - Variables

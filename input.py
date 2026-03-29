@@ -28,4 +28,4 @@ quantity = int(input("How many would you like?:"))
 total = price * quantity
 
 print(f"you have brought {quantity} x {item}/s")
-print(f"Your total is:{total}")
+print(f"Your total is:{total}")# Day 1 - User Input

@@ -13,3 +13,4 @@ age = str(age)
 
 print(age)
 print(type(age))
+# Day 1 - Type Casting

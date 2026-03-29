@@ -66,3 +66,4 @@ print("Absolute value of -7:", math.fabs(-7))  # fabs(x) -> positive value
 
 # Logarithm
 print("Log base 2 of 8:", math.log(8, 2))  # log(x, base) -> logarithm
+# Day 1 - Arithmetic & Math
