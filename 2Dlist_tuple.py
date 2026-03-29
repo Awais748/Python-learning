@@ -59,4 +59,4 @@ print("\nUpdated list:", my_list)
 
 # Tuple → change nahi hoti (immutable)
 my_tuple = (1, 2, 3)
-# my_tuple[0] = 100  ❌ error dega
+# my_tuple[0] = 100  ❌ error dega# Day 3 - 2D Lists & Tuples

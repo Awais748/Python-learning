@@ -95,3 +95,4 @@
 
 # my_tuple = (1, 2, 3)
 # # my_tuple[0] = 100  # ❌ Error: Tuple is immutable
+# Day 3 - Dictionary
