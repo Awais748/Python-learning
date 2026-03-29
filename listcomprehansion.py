@@ -3,16 +3,22 @@
 #                      [expression for value in interable if condition]
 
 
+# numbers = [1,2,3,4,5,6,7,8,9,10]
 
-numbers = [1,2,3,4,5,6,7,8,9,10]
+# even = [num for num in numbers if num % 2 == 0]
 
-# square = [num * num for num in numbers]
-
-# print(square)
-
-# even = [ if num % 2 == 0  for num in numbers ]
 # print(even)
 
+# numbers = [1,2,3,4,5,6,7,8,9,10]
+
+# odd_square = [num * num for num in numbers if num % 2 != 0]
+
+# print(odd_square)
 
 
+# numbers = [1,2,3,4,5,6,7,8,9,10]
+
+# result = ["Even" if num % 2 == 0 else "Odd" for num in numbers]
+
+# print(result)
 
